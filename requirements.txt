@@ -42,7 +42,7 @@ nest-asyncio==1.4.0
 notebook==6.1.4
 numpy==1.19.2
 packaging==20.4
-pandas==1.1.2
+pandas==1.4.4
 pandocfilters==1.4.2
 parso==0.7.1
 pathtools==0.1.2
