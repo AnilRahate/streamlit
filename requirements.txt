@@ -3,4 +3,3 @@ pandas==1.4.4
 scikit-learn==0.24.1
 scipy==1.9.1
 streamlit==0.76.0
-python==3.9.10
